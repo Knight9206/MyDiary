@@ -11,7 +11,7 @@ public class AppHelpActivity extends Activity {
 
 		TextView textview = new TextView(this);
 		textview.setTextSize(20);
-		textview.setText("나만의 일기장" + "\n"+ "만든이: 조상철");
+		textview.setText("여행 일지");
 		setContentView(textview);
     }
 }
